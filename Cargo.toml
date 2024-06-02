@@ -1,0 +1,10 @@
+[package]
+name = "fusiron"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "fusiron"
+repository = "https://github.com/fusiron/fusiron.git"
+readme = "README.md"
+
+[dependencies]
